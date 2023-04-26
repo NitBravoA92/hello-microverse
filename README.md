@@ -49,8 +49,15 @@ Clone this repository to your desired folder:
 ```
 
 ### Prerequisites
+In order to install, modify and run this project, it is necessary to have the following applications installed:
+- **Git:** to manage the project versions of source code. [You can Download Git here](https://git-scm.com/)
+- **Nodejs and NPM:** to install and manage the project dependencies. [Nodejs and NPM installation guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- **A code editor** like Visual Studio Code (Recommended) or any other of your preference. It is necessary to open the project and add or modify the source code. [You can Download Visual Studio Code here](https://code.visualstudio.com/)
 
-You need to have Node.js and NPM installed on your machine to install and run this project. If you don't have them installed yet, check this link: [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+It is also important to have at least basic knowledge of HTML and CSS languages, so you will be able to understand and work with the html and css code of the project. 
+- [Learn the basics of HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Learn the basics of CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 ### Install
 
