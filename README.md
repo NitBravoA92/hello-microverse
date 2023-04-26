@@ -70,7 +70,7 @@ Open the HTML or CSS files and modify the internal code and then run the followi
 ```
 This will show you a log with details about errors (if any) and changes that would be necessary to solve those errors and improve the code.
 
-_NOTE: Please only modify the HTML and CSS files. Do not modify the configuration files of the project.
+**Note**: Please only modify the HTML and CSS files. Do not modify the configuration files of the project.
 
 ## 👥 Authors <a name="authors"></a>
 
