@@ -20,7 +20,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-**Hello Microverse** is a simple Html/Css project to practice how to install and work with html and css linters and Github flow
+**Hello Microverse** is a simple Html/Css project to practice how to install and work with html and css linters.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,7 +50,7 @@ Clone this repository to your desired folder:
 
 ### Prerequisites
 
-You need to have Node.js and NPM installed on your machine to work on this project. If you don't have them installed yet, check this link: [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+You need to have Node.js and NPM installed on your machine to install and run this project. If you don't have them installed yet, check this link: [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ### Install
 
@@ -70,7 +70,7 @@ Open the HTML or CSS files and modify the internal code and then run the followi
 ```
 This will show you a log with details about errors (if any) and changes that would be necessary to solve those errors and improve the code.
 
-NOTE: Please only modify the HTML and CSS files. Do not modify the configuration files of the project.
+_NOTE: Please only modify the HTML and CSS files. Do not modify the configuration files of the project.
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -100,7 +100,5 @@ If you liked this project, give me a "Star" (clicking the star button at the beg
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
