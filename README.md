@@ -76,8 +76,8 @@ _NOTE: Please only modify the HTML and CSS files. Do not modify the configuratio
 
 👤 **Nitcelis Bravo**
 
-- GitHub: [@githubhandle](https://github.com/NitBravoA92)
-- Twitter: [@twitterhandle](https://twitter.com/softwareDevOne)
+- GitHub: [Nitcelis Bravo](https://github.com/NitBravoA92)
+- Twitter: [@softwareDevOne](https://twitter.com/softwareDevOne)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nitcelis-bravo-alcala-b65340158)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
