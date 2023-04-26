@@ -14,8 +14,10 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 # 📖 Hello Microverse <a name="about-project"></a>
@@ -34,6 +36,13 @@
     <li><a href="https://stylelint.io/">Stylelint.io</a></li>
   </ul>
 </details>
+
+### Key Features <a name="key-features"></a>
+
+- **Linters installation**
+- **Diagnosis of HTML and CSS code to detect and fix technical issues**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -89,13 +98,19 @@ This will show you a log with details about errors (if any) and changes that wou
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add new html content like a navbar section with a logo, a main content section, and a footer section.**
+- [ ] **Add custom CSS styles to style the new sections of the web page, focused on responsiveness.**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 To do Contributions, please fork this repository, create a new branch and then create a Pull Request from your branch. You can find detailed description of this process in: [A Step by Step Guide to Making Your First GitHub Contribution by Brandon Morelli](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -103,6 +118,11 @@ To do Contributions, please fork this repository, create a new branch and then c
 If you liked this project, give me a "Star" (clicking the star button at the beginning of this page), and share this repo with your developer community.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my Microverse teammates for their support. They have helped me a lot by giving me tips and reviews to improve the project.
+
 
 ## 📝 License <a name="license"></a>
 
